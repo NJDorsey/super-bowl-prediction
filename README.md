@@ -1,2 +1,2 @@
 # super-bowl-prediction
-Client-faced analysis of historical NFL data using a sequential neural network (SNN) to predict a super bowl winner based on regular season team statistics
+This project involved analyzing over two decades of regular season NFL data containing a wide variety of team statistics, including whether or not a team won the super bowl that year. After processing, scaling, and normalizing the data, I created a sequential neural network (SNN) model to analyze the data and predict the winner of this year's super bowl, using various techniques such as StandardScaler to normalize the data and SMOTE to identify key features and reduce class imbalance, leveraged the model on the most important features to predict the winner based on previous learned trends.
